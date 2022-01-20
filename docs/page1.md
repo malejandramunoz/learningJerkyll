@@ -3,4 +3,4 @@ layout: page
 title: "this is a test"
 
 
-permalinkL /1/
+permalink: /1/
